@@ -1,0 +1,15 @@
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\bin\Debug\net6.0\Movie-Library.exe
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\bin\Debug\net6.0\Movie-Library.deps.json
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\bin\Debug\net6.0\Movie-Library.runtimeconfig.json
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\bin\Debug\net6.0\Movie-Library.dll
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\bin\Debug\net6.0\ref\Movie-Library.dll
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\bin\Debug\net6.0\Movie-Library.pdb
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\obj\Debug\net6.0\Movie-Library.csproj.AssemblyReference.cache
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\obj\Debug\net6.0\Movie-Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\obj\Debug\net6.0\Movie-Library.AssemblyInfoInputs.cache
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\obj\Debug\net6.0\Movie-Library.AssemblyInfo.cs
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\obj\Debug\net6.0\Movie-Library.csproj.CoreCompileInputs.cache
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\obj\Debug\net6.0\Movie-Library.dll
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\obj\Debug\net6.0\ref\Movie-Library.dll
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\obj\Debug\net6.0\Movie-Library.pdb
+C:\Users\isaia\source\repos\Movie-Library\Movie-Library\obj\Debug\net6.0\Movie-Library.genruntimeconfig.cache
